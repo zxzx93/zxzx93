@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yeonsu's&nbsp;Github!&fontSize=70" />
 
 <div align=center>
- <p>안녕하세요! 성장하기 위해 노력하는 프론트엔드 개발자 송연수입니다.<P>
+ <p>안녕하세요! 성장하기 위해 노력하는 프론트엔드 개발자 송연수입니다. 😉<P>
 </div>
 
   <br/>
