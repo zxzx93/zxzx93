@@ -37,7 +37,7 @@
 <br/>
 
 <div align=center>
-	<h3>⚒️ Contacts ⚒️</h3>
+	<h3> Contacts </h3>
 </div>
 <p align="center">
     <!--<a href="연결하고싶은링크"><img src="https://img.shields.io/badge/뱃지이름-뱃지색상?style=flat-square&logo=로고이미지이름&logoColor=white&link=연결하고싶은링크"/></a>-->
